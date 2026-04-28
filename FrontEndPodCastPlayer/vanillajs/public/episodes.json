@@ -1,0 +1,354 @@
+[
+  {
+    "id": 1,
+    "episodeNumber": 1,
+    "title": "Employee Compensation Podcast",
+    "subtitle": "The business of compensation and workforce strategy",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuC2lvVepzAFrp1IRjPFwSOvnGk0tcaNJixOBNDEp-ZiA7DHcq93p-6AkSexnR7SWBABbqj8SPUBnGmJjJPIH8vM0hAViZ86ISULNmmJjNiGg24rAi9hXMgkdkLet8TWF1PGofCo-FFKWkuzxu4g02628eYTVPWF2PiAo2zG0YI_dBy13zejM85s7p7ixIuZcOLX_He1zdtzugdSl08nmtRe_fa1awSW2nAy4ujeCa9MPyZH0-UGkkkaThfmeavdQvoZ2D_X2h6L5ls",
+    "duration": "32m",
+    "date": "Q3, 2025",
+    "audioSrc": "Audio/Employee-Compensation-Podcast-Audio-Only.mp3",
+    "subtitles": {
+      "en": "subtitles/Employee-Compensation-Podcast-Audio-Only_en.vtt",
+      "de": "subtitles/Employee-Compensation-Podcast-Audio-Only_de.vtt",
+      "es": "subtitles/Employee-Compensation-Podcast-Audio-Only_es.vtt",
+      "fr": "subtitles/Employee-Compensation-Podcast-Audio-Only_fr.vtt"
+    }
+  },
+  {
+    "id": 2,
+    "episodeNumber": 2,
+    "title": "ENG UK M PeterB",
+    "subtitle": "A behind-the-mic conversation with Peter B",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCFJlz8Y-d9d0OiyMH5qpZnakk_gt2BB9fRWCKW1S54-BDZNGHdD4yRiI23D3kz7S6EEMDtx_fgdAY7qROU91wKhd_yt2TB9BcxfZpGbAfc42wRgrlGGfIIqyhNG66i02kqlc4e_N7dBcJ_kAQ2Ianc26Nb2NOYzu9OzflOiOaMuoOqVii_o71wN4REWSwdz4v3qSnbGMrvXOhKu8wE5d0iOpQFhchIdbdM8Lwkpg6AdSAGm9pSPTk3T2vNr2VYuxReOjY0Nk6VubQ",
+    "duration": "28m",
+    "date": "Q4, 2025",
+    "audioSrc": "Audio/ENG_UK_M_PeterB.mp3", 
+    "subtitles": {
+      "en": "subtitles/ENG_UK_M_PeterB_en.vtt",
+      "de": "subtitles/ENG_UK_M_PeterB_de.vtt",
+      "es": "subtitles/ENG_UK_M_PeterB_es.vtt",
+      "fr": "subtitles/ENG_UK_M_PeterB_fr.vtt"
+    }
+  },
+  {
+    "id": 3,
+    "episodeNumber": 3,
+    "title": "Employee Compensation Podcast",
+    "subtitle": "The business of compensation and workforce strategy",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuC2lvVepzAFrp1IRjPFwSOvnGk0tcaNJixOBNDEp-ZiA7DHcq93p-6AkSexnR7SWBABbqj8SPUBnGmJjJPIH8vM0hAViZ86ISULNmmJjNiGg24rAi9hXMgkdkLet8TWF1PGofCo-FFKWkuzxu4g02628eYTVPWF2PiAo2zG0YI_dBy13zejM85s7p7ixIuZcOLX_He1zdtzugdSl08nmtRe_fa1awSW2nAy4ujeCa9MPyZH0-UGkkkaThfmeavdQvoZ2D_X2h6L5ls",
+    "duration": "32m",
+    "date": "Q3, 2025",
+    "audioSrc": "Audio/Employee-Compensation-Podcast-Audio-Only.mp3",
+    "subtitles": {
+      "en": "subtitles/Employee-Compensation-Podcast-Audio-Only_en.vtt",
+      "de": "subtitles/Employee-Compensation-Podcast-Audio-Only_de.vtt",
+      "es": "subtitles/Employee-Compensation-Podcast-Audio-Only_es.vtt",
+      "fr": "subtitles/Employee-Compensation-Podcast-Audio-Only_fr.vtt"
+    }
+  },
+  {
+    "id": 4,
+    "episodeNumber": 4,
+    "title": "ENG UK M PeterB",
+    "subtitle": "A behind-the-mic conversation with Peter B",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCFJlz8Y-d9d0OiyMH5qpZnakk_gt2BB9fRWCKW1S54-BDZNGHdD4yRiI23D3kz7S6EEMDtx_fgdAY7qROU91wKhd_yt2TB9BcxfZpGbAfc42wRgrlGGfIIqyhNG66i02kqlc4e_N7dBcJ_kAQ2Ianc26Nb2NOYzu9OzflOiOaMuoOqVii_o71wN4REWSwdz4v3qSnbGMrvXOhKu8wE5d0iOpQFhchIdbdM8Lwkpg6AdSAGm9pSPTk3T2vNr2VYuxReOjY0Nk6VubQ",
+    "duration": "28m",
+    "date": "Q4, 2025",
+    "audioSrc": "Audio/ENG_UK_M_PeterB.mp3",
+    "subtitles": {
+      "en": "subtitles/ENG_UK_M_PeterB_en.vtt",
+      "de": "subtitles/ENG_UK_M_PeterB_de.vtt",
+      "es": "subtitles/ENG_UK_M_PeterB_es.vtt",
+      "fr": "subtitles/ENG_UK_M_PeterB_fr.vtt"
+    }
+  },
+  {
+    "id": 5,
+    "episodeNumber": 5,
+    "title": "Employee Compensation Podcast",
+    "subtitle": "The business of compensation and workforce strategy",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuC2lvVepzAFrp1IRjPFwSOvnGk0tcaNJixOBNDEp-ZiA7DHcq93p-6AkSexnR7SWBABbqj8SPUBnGmJjJPIH8vM0hAViZ86ISULNmmJjNiGg24rAi9hXMgkdkLet8TWF1PGofCo-FFKWkuzxu4g02628eYTVPWF2PiAo2zG0YI_dBy13zejM85s7p7ixIuZcOLX_He1zdtzugdSl08nmtRe_fa1awSW2nAy4ujeCa9MPyZH0-UGkkkaThfmeavdQvoZ2D_X2h6L5ls",
+    "duration": "32m",
+    "date": "Q3, 2025",
+    "audioSrc": "Audio/Employee-Compensation-Podcast-Audio-Only.mp3",
+    "subtitles": {
+      "en": "subtitles/Employee-Compensation-Podcast-Audio-Only_en.vtt",
+      "de": "subtitles/Employee-Compensation-Podcast-Audio-Only_de.vtt",
+      "es": "subtitles/Employee-Compensation-Podcast-Audio-Only_es.vtt",
+      "fr": "subtitles/Employee-Compensation-Podcast-Audio-Only_fr.vtt"
+    }
+  },
+  {
+    "id": 6,
+    "episodeNumber": 6,
+    "title": "ENG UK M PeterB",
+    "subtitle": "A behind-the-mic conversation with Peter B",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCFJlz8Y-d9d0OiyMH5qpZnakk_gt2BB9fRWCKW1S54-BDZNGHdD4yRiI23D3kz7S6EEMDtx_fgdAY7qROU91wKhd_yt2TB9BcxfZpGbAfc42wRgrlGGfIIqyhNG66i02kqlc4e_N7dBcJ_kAQ2Ianc26Nb2NOYzu9OzflOiOaMuoOqVii_o71wN4REWSwdz4v3qSnbGMrvXOhKu8wE5d0iOpQFhchIdbdM8Lwkpg6AdSAGm9pSPTk3T2vNr2VYuxReOjY0Nk6VubQ",
+    "duration": "28m",
+    "date": "Q4, 2025",
+    "audioSrc": "Audio/ENG_UK_M_PeterB.mp3",
+    "subtitles": {
+      "en": "subtitles/ENG_UK_M_PeterB_en.vtt",
+      "de": "subtitles/ENG_UK_M_PeterB_de.vtt",
+      "es": "subtitles/ENG_UK_M_PeterB_es.vtt",
+      "fr": "subtitles/ENG_UK_M_PeterB_fr.vtt"
+    }
+  },
+  {
+    "id": 7,
+    "episodeNumber": 7,
+    "title": "Employee Compensation Podcast",
+    "subtitle": "The business of compensation and workforce strategy",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuC2lvVepzAFrp1IRjPFwSOvnGk0tcaNJixOBNDEp-ZiA7DHcq93p-6AkSexnR7SWBABbqj8SPUBnGmJjJPIH8vM0hAViZ86ISULNmmJjNiGg24rAi9hXMgkdkLet8TWF1PGofCo-FFKWkuzxu4g02628eYTVPWF2PiAo2zG0YI_dBy13zejM85s7p7ixIuZcOLX_He1zdtzugdSl08nmtRe_fa1awSW2nAy4ujeCa9MPyZH0-UGkkkaThfmeavdQvoZ2D_X2h6L5ls",
+    "duration": "32m",
+    "date": "Q3, 2025",
+    "audioSrc": "Audio/Employee-Compensation-Podcast-Audio-Only.mp3",
+    "subtitles": {
+      "en": "subtitles/Employee-Compensation-Podcast-Audio-Only_en.vtt",
+      "de": "subtitles/Employee-Compensation-Podcast-Audio-Only_de.vtt",
+      "es": "subtitles/Employee-Compensation-Podcast-Audio-Only_es.vtt",
+      "fr": "subtitles/Employee-Compensation-Podcast-Audio-Only_fr.vtt"
+    }
+  },
+  {
+    "id": 1,
+    "episodeNumber": 1,
+    "title": "Employee Compensation Podcast",
+    "subtitle": "The business of compensation and workforce strategy",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuC2lvVepzAFrp1IRjPFwSOvnGk0tcaNJixOBNDEp-ZiA7DHcq93p-6AkSexnR7SWBABbqj8SPUBnGmJjJPIH8vM0hAViZ86ISULNmmJjNiGg24rAi9hXMgkdkLet8TWF1PGofCo-FFKWkuzxu4g02628eYTVPWF2PiAo2zG0YI_dBy13zejM85s7p7ixIuZcOLX_He1zdtzugdSl08nmtRe_fa1awSW2nAy4ujeCa9MPyZH0-UGkkkaThfmeavdQvoZ2D_X2h6L5ls",
+    "duration": "32m",
+    "date": "Q3, 2025",
+    "audioSrc": "Audio/Employee-Compensation-Podcast-Audio-Only.mp3",
+    "subtitles": {
+      "en": "subtitles/Employee-Compensation-Podcast-Audio-Only_en.vtt",
+      "de": "subtitles/Employee-Compensation-Podcast-Audio-Only_de.vtt",
+      "es": "subtitles/Employee-Compensation-Podcast-Audio-Only_es.vtt",
+      "fr": "subtitles/Employee-Compensation-Podcast-Audio-Only_fr.vtt"
+    }
+  },
+  {
+    "id": 2,
+    "episodeNumber": 2,
+    "title": "ENG UK M PeterB",
+    "subtitle": "A behind-the-mic conversation with Peter B",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCFJlz8Y-d9d0OiyMH5qpZnakk_gt2BB9fRWCKW1S54-BDZNGHdD4yRiI23D3kz7S6EEMDtx_fgdAY7qROU91wKhd_yt2TB9BcxfZpGbAfc42wRgrlGGfIIqyhNG66i02kqlc4e_N7dBcJ_kAQ2Ianc26Nb2NOYzu9OzflOiOaMuoOqVii_o71wN4REWSwdz4v3qSnbGMrvXOhKu8wE5d0iOpQFhchIdbdM8Lwkpg6AdSAGm9pSPTk3T2vNr2VYuxReOjY0Nk6VubQ",
+    "duration": "28m",
+    "date": "Q4, 2025",
+    "audioSrc": "Audio/ENG_UK_M_PeterB.mp3",
+    "subtitles": {
+      "en": "subtitles/ENG_UK_M_PeterB_en.vtt",
+      "de": "subtitles/ENG_UK_M_PeterB_de.vtt",
+      "es": "subtitles/ENG_UK_M_PeterB_es.vtt",
+      "fr": "subtitles/ENG_UK_M_PeterB_fr.vtt"
+    }
+  },
+  {
+    "id": 3,
+    "episodeNumber": 3,
+    "title": "Employee Compensation Podcast",
+    "subtitle": "The business of compensation and workforce strategy",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuC2lvVepzAFrp1IRjPFwSOvnGk0tcaNJixOBNDEp-ZiA7DHcq93p-6AkSexnR7SWBABbqj8SPUBnGmJjJPIH8vM0hAViZ86ISULNmmJjNiGg24rAi9hXMgkdkLet8TWF1PGofCo-FFKWkuzxu4g02628eYTVPWF2PiAo2zG0YI_dBy13zejM85s7p7ixIuZcOLX_He1zdtzugdSl08nmtRe_fa1awSW2nAy4ujeCa9MPyZH0-UGkkkaThfmeavdQvoZ2D_X2h6L5ls",
+    "duration": "32m",
+    "date": "Q3, 2025",
+    "audioSrc": "Audio/Employee-Compensation-Podcast-Audio-Only.mp3",
+    "subtitles": {
+      "en": "subtitles/Employee-Compensation-Podcast-Audio-Only_en.vtt",
+      "de": "subtitles/Employee-Compensation-Podcast-Audio-Only_de.vtt",
+      "es": "subtitles/Employee-Compensation-Podcast-Audio-Only_es.vtt",
+      "fr": "subtitles/Employee-Compensation-Podcast-Audio-Only_fr.vtt"
+    }
+  },
+  {
+    "id": 4,
+    "episodeNumber": 4,
+    "title": "ENG UK M PeterB",
+    "subtitle": "A behind-the-mic conversation with Peter B",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCFJlz8Y-d9d0OiyMH5qpZnakk_gt2BB9fRWCKW1S54-BDZNGHdD4yRiI23D3kz7S6EEMDtx_fgdAY7qROU91wKhd_yt2TB9BcxfZpGbAfc42wRgrlGGfIIqyhNG66i02kqlc4e_N7dBcJ_kAQ2Ianc26Nb2NOYzu9OzflOiOaMuoOqVii_o71wN4REWSwdz4v3qSnbGMrvXOhKu8wE5d0iOpQFhchIdbdM8Lwkpg6AdSAGm9pSPTk3T2vNr2VYuxReOjY0Nk6VubQ",
+    "duration": "28m",
+    "date": "Q4, 2025",
+    "audioSrc": "Audio/ENG_UK_M_PeterB.mp3",
+    "subtitles": {
+      "en": "subtitles/ENG_UK_M_PeterB_en.vtt",
+      "de": "subtitles/ENG_UK_M_PeterB_de.vtt",
+      "es": "subtitles/ENG_UK_M_PeterB_es.vtt",
+      "fr": "subtitles/ENG_UK_M_PeterB_fr.vtt"
+    }
+  },
+  {
+    "id": 5,
+    "episodeNumber": 5,
+    "title": "Employee Compensation Podcast",
+    "subtitle": "The business of compensation and workforce strategy",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuC2lvVepzAFrp1IRjPFwSOvnGk0tcaNJixOBNDEp-ZiA7DHcq93p-6AkSexnR7SWBABbqj8SPUBnGmJjJPIH8vM0hAViZ86ISULNmmJjNiGg24rAi9hXMgkdkLet8TWF1PGofCo-FFKWkuzxu4g02628eYTVPWF2PiAo2zG0YI_dBy13zejM85s7p7ixIuZcOLX_He1zdtzugdSl08nmtRe_fa1awSW2nAy4ujeCa9MPyZH0-UGkkkaThfmeavdQvoZ2D_X2h6L5ls",
+    "duration": "32m",
+    "date": "Q3, 2025",
+    "audioSrc": "Audio/Employee-Compensation-Podcast-Audio-Only.mp3",
+    "subtitles": {
+      "en": "subtitles/Employee-Compensation-Podcast-Audio-Only_en.vtt",
+      "de": "subtitles/Employee-Compensation-Podcast-Audio-Only_de.vtt",
+      "es": "subtitles/Employee-Compensation-Podcast-Audio-Only_es.vtt",
+      "fr": "subtitles/Employee-Compensation-Podcast-Audio-Only_fr.vtt"
+    }
+  },
+  {
+    "id": 6,
+    "episodeNumber": 6,
+    "title": "ENG UK M PeterB",
+    "subtitle": "A behind-the-mic conversation with Peter B",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCFJlz8Y-d9d0OiyMH5qpZnakk_gt2BB9fRWCKW1S54-BDZNGHdD4yRiI23D3kz7S6EEMDtx_fgdAY7qROU91wKhd_yt2TB9BcxfZpGbAfc42wRgrlGGfIIqyhNG66i02kqlc4e_N7dBcJ_kAQ2Ianc26Nb2NOYzu9OzflOiOaMuoOqVii_o71wN4REWSwdz4v3qSnbGMrvXOhKu8wE5d0iOpQFhchIdbdM8Lwkpg6AdSAGm9pSPTk3T2vNr2VYuxReOjY0Nk6VubQ",
+    "duration": "28m",
+    "date": "Q4, 2025",
+    "audioSrc": "Audio/ENG_UK_M_PeterB.mp3",
+    "subtitles": {
+      "en": "subtitles/ENG_UK_M_PeterB_en.vtt",
+      "de": "subtitles/ENG_UK_M_PeterB_de.vtt",
+      "es": "subtitles/ENG_UK_M_PeterB_es.vtt",
+      "fr": "subtitles/ENG_UK_M_PeterB_fr.vtt"
+    }
+  },
+  {
+    "id": 7,
+    "episodeNumber": 7,
+    "title": "Employee Compensation Podcast",
+    "subtitle": "The business of compensation and workforce strategy",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuC2lvVepzAFrp1IRjPFwSOvnGk0tcaNJixOBNDEp-ZiA7DHcq93p-6AkSexnR7SWBABbqj8SPUBnGmJjJPIH8vM0hAViZ86ISULNmmJjNiGg24rAi9hXMgkdkLet8TWF1PGofCo-FFKWkuzxu4g02628eYTVPWF2PiAo2zG0YI_dBy13zejM85s7p7ixIuZcOLX_He1zdtzugdSl08nmtRe_fa1awSW2nAy4ujeCa9MPyZH0-UGkkkaThfmeavdQvoZ2D_X2h6L5ls",
+    "duration": "32m",
+    "date": "Q3, 2025",
+    "audioSrc": "Audio/Employee-Compensation-Podcast-Audio-Only.mp3",
+    "subtitles": {
+      "en": "subtitles/Employee-Compensation-Podcast-Audio-Only_en.vtt",
+      "de": "subtitles/Employee-Compensation-Podcast-Audio-Only_de.vtt",
+      "es": "subtitles/Employee-Compensation-Podcast-Audio-Only_es.vtt",
+      "fr": "subtitles/Employee-Compensation-Podcast-Audio-Only_fr.vtt"
+    }
+  },
+  {
+    "id": 1,
+    "episodeNumber": 1,
+    "title": "Employee Compensation Podcast",
+    "subtitle": "The business of compensation and workforce strategy",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuC2lvVepzAFrp1IRjPFwSOvnGk0tcaNJixOBNDEp-ZiA7DHcq93p-6AkSexnR7SWBABbqj8SPUBnGmJjJPIH8vM0hAViZ86ISULNmmJjNiGg24rAi9hXMgkdkLet8TWF1PGofCo-FFKWkuzxu4g02628eYTVPWF2PiAo2zG0YI_dBy13zejM85s7p7ixIuZcOLX_He1zdtzugdSl08nmtRe_fa1awSW2nAy4ujeCa9MPyZH0-UGkkkaThfmeavdQvoZ2D_X2h6L5ls",
+    "duration": "32m",
+    "date": "Q3, 2025",
+    "audioSrc": "Audio/Employee-Compensation-Podcast-Audio-Only.mp3",
+    "subtitles": {
+      "en": "subtitles/Employee-Compensation-Podcast-Audio-Only_en.vtt",
+      "de": "subtitles/Employee-Compensation-Podcast-Audio-Only_de.vtt",
+      "es": "subtitles/Employee-Compensation-Podcast-Audio-Only_es.vtt",
+      "fr": "subtitles/Employee-Compensation-Podcast-Audio-Only_fr.vtt"
+    }
+  },
+  {
+    "id": 2,
+    "episodeNumber": 2,
+    "title": "ENG UK M PeterB",
+    "subtitle": "A behind-the-mic conversation with Peter B",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCFJlz8Y-d9d0OiyMH5qpZnakk_gt2BB9fRWCKW1S54-BDZNGHdD4yRiI23D3kz7S6EEMDtx_fgdAY7qROU91wKhd_yt2TB9BcxfZpGbAfc42wRgrlGGfIIqyhNG66i02kqlc4e_N7dBcJ_kAQ2Ianc26Nb2NOYzu9OzflOiOaMuoOqVii_o71wN4REWSwdz4v3qSnbGMrvXOhKu8wE5d0iOpQFhchIdbdM8Lwkpg6AdSAGm9pSPTk3T2vNr2VYuxReOjY0Nk6VubQ",
+    "duration": "28m",
+    "date": "Q4, 2025",
+    "audioSrc": "Audio/ENG_UK_M_PeterB.mp3",
+    "subtitles": {
+      "en": "subtitles/ENG_UK_M_PeterB_en.vtt",
+      "de": "subtitles/ENG_UK_M_PeterB_de.vtt",
+      "es": "subtitles/ENG_UK_M_PeterB_es.vtt",
+      "fr": "subtitles/ENG_UK_M_PeterB_fr.vtt"
+    }
+  },
+  {
+    "id": 3,
+    "episodeNumber": 3,
+    "title": "Employee Compensation Podcast",
+    "subtitle": "The business of compensation and workforce strategy",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuC2lvVepzAFrp1IRjPFwSOvnGk0tcaNJixOBNDEp-ZiA7DHcq93p-6AkSexnR7SWBABbqj8SPUBnGmJjJPIH8vM0hAViZ86ISULNmmJjNiGg24rAi9hXMgkdkLet8TWF1PGofCo-FFKWkuzxu4g02628eYTVPWF2PiAo2zG0YI_dBy13zejM85s7p7ixIuZcOLX_He1zdtzugdSl08nmtRe_fa1awSW2nAy4ujeCa9MPyZH0-UGkkkaThfmeavdQvoZ2D_X2h6L5ls",
+    "duration": "32m",
+    "date": "Q3, 2025",
+    "audioSrc": "Audio/Employee-Compensation-Podcast-Audio-Only.mp3",
+    "subtitles": {
+      "en": "subtitles/Employee-Compensation-Podcast-Audio-Only_en.vtt",
+      "de": "subtitles/Employee-Compensation-Podcast-Audio-Only_de.vtt",
+      "es": "subtitles/Employee-Compensation-Podcast-Audio-Only_es.vtt",
+      "fr": "subtitles/Employee-Compensation-Podcast-Audio-Only_fr.vtt"
+    }
+  },
+  {
+    "id": 4,
+    "episodeNumber": 4,
+    "title": "ENG UK M PeterB",
+    "subtitle": "A behind-the-mic conversation with Peter B",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCFJlz8Y-d9d0OiyMH5qpZnakk_gt2BB9fRWCKW1S54-BDZNGHdD4yRiI23D3kz7S6EEMDtx_fgdAY7qROU91wKhd_yt2TB9BcxfZpGbAfc42wRgrlGGfIIqyhNG66i02kqlc4e_N7dBcJ_kAQ2Ianc26Nb2NOYzu9OzflOiOaMuoOqVii_o71wN4REWSwdz4v3qSnbGMrvXOhKu8wE5d0iOpQFhchIdbdM8Lwkpg6AdSAGm9pSPTk3T2vNr2VYuxReOjY0Nk6VubQ",
+    "duration": "28m",
+    "date": "Q4, 2025",
+    "audioSrc": "Audio/ENG_UK_M_PeterB.mp3",
+    "subtitles": {
+      "en": "subtitles/ENG_UK_M_PeterB_en.vtt",
+      "de": "subtitles/ENG_UK_M_PeterB_de.vtt",
+      "es": "subtitles/ENG_UK_M_PeterB_es.vtt",
+      "fr": "subtitles/ENG_UK_M_PeterB_fr.vtt"
+    }
+  },
+  {
+    "id": 5,
+    "episodeNumber": 5,
+    "title": "Employee Compensation Podcast",
+    "subtitle": "The business of compensation and workforce strategy",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuC2lvVepzAFrp1IRjPFwSOvnGk0tcaNJixOBNDEp-ZiA7DHcq93p-6AkSexnR7SWBABbqj8SPUBnGmJjJPIH8vM0hAViZ86ISULNmmJjNiGg24rAi9hXMgkdkLet8TWF1PGofCo-FFKWkuzxu4g02628eYTVPWF2PiAo2zG0YI_dBy13zejM85s7p7ixIuZcOLX_He1zdtzugdSl08nmtRe_fa1awSW2nAy4ujeCa9MPyZH0-UGkkkaThfmeavdQvoZ2D_X2h6L5ls",
+    "duration": "32m",
+    "date": "Q3, 2025",
+    "audioSrc": "Audio/Employee-Compensation-Podcast-Audio-Only.mp3",
+    "subtitles": {
+      "en": "subtitles/Employee-Compensation-Podcast-Audio-Only_en.vtt",
+      "de": "subtitles/Employee-Compensation-Podcast-Audio-Only_de.vtt",
+      "es": "subtitles/Employee-Compensation-Podcast-Audio-Only_es.vtt",
+      "fr": "subtitles/Employee-Compensation-Podcast-Audio-Only_fr.vtt"
+    }
+  },
+  {
+    "id": 6,
+    "episodeNumber": 6,
+    "title": "ENG UK M PeterB",
+    "subtitle": "A behind-the-mic conversation with Peter B",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCFJlz8Y-d9d0OiyMH5qpZnakk_gt2BB9fRWCKW1S54-BDZNGHdD4yRiI23D3kz7S6EEMDtx_fgdAY7qROU91wKhd_yt2TB9BcxfZpGbAfc42wRgrlGGfIIqyhNG66i02kqlc4e_N7dBcJ_kAQ2Ianc26Nb2NOYzu9OzflOiOaMuoOqVii_o71wN4REWSwdz4v3qSnbGMrvXOhKu8wE5d0iOpQFhchIdbdM8Lwkpg6AdSAGm9pSPTk3T2vNr2VYuxReOjY0Nk6VubQ",
+    "duration": "28m",
+    "date": "Q4, 2025",
+    "audioSrc": "Audio/ENG_UK_M_PeterB.mp3",
+    "subtitles": {
+      "en": "subtitles/ENG_UK_M_PeterB_en.vtt",
+      "de": "subtitles/ENG_UK_M_PeterB_de.vtt",
+      "es": "subtitles/ENG_UK_M_PeterB_es.vtt",
+      "fr": "subtitles/ENG_UK_M_PeterB_fr.vtt"
+    }
+  },
+  {
+    "id": 7,
+    "episodeNumber": 7,
+    "title": "Employee Compensation Podcast",
+    "subtitle": "The business of compensation and workforce strategy",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuC2lvVepzAFrp1IRjPFwSOvnGk0tcaNJixOBNDEp-ZiA7DHcq93p-6AkSexnR7SWBABbqj8SPUBnGmJjJPIH8vM0hAViZ86ISULNmmJjNiGg24rAi9hXMgkdkLet8TWF1PGofCo-FFKWkuzxu4g02628eYTVPWF2PiAo2zG0YI_dBy13zejM85s7p7ixIuZcOLX_He1zdtzugdSl08nmtRe_fa1awSW2nAy4ujeCa9MPyZH0-UGkkkaThfmeavdQvoZ2D_X2h6L5ls",
+    "duration": "32m",
+    "date": "Q3, 2025",
+    "audioSrc": "Audio/Employee-Compensation-Podcast-Audio-Only.mp3",
+    "subtitles": {
+      "en": "subtitles/Employee-Compensation-Podcast-Audio-Only_en.vtt",
+      "de": "subtitles/Employee-Compensation-Podcast-Audio-Only_de.vtt",
+      "es": "subtitles/Employee-Compensation-Podcast-Audio-Only_es.vtt",
+      "fr": "subtitles/Employee-Compensation-Podcast-Audio-Only_fr.vtt"
+    }
+  },
+  {
+    "id": 7,
+    "episodeNumber": 7,
+    "title": "Employee Compensation Podcast",
+    "subtitle": "The business of compensation and workforce strategy",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuC2lvVepzAFrp1IRjPFwSOvnGk0tcaNJixOBNDEp-ZiA7DHcq93p-6AkSexnR7SWBABbqj8SPUBnGmJjJPIH8vM0hAViZ86ISULNmmJjNiGg24rAi9hXMgkdkLet8TWF1PGofCo-FFKWkuzxu4g02628eYTVPWF2PiAo2zG0YI_dBy13zejM85s7p7ixIuZcOLX_He1zdtzugdSl08nmtRe_fa1awSW2nAy4ujeCa9MPyZH0-UGkkkaThfmeavdQvoZ2D_X2h6L5ls",
+    "duration": "32m",
+    "date": "Q3, 2025",
+    "audioSrc": "Audio/Employee-Compensation-Podcast-Audio-Only.mp3",
+    "subtitles": {
+      "en": "subtitles/Employee-Compensation-Podcast-Audio-Only_en.vtt",
+      "de": "subtitles/Employee-Compensation-Podcast-Audio-Only_de.vtt",
+      "es": "subtitles/Employee-Compensation-Podcast-Audio-Only_es.vtt",
+      "fr": "subtitles/Employee-Compensation-Podcast-Audio-Only_fr.vtt"
+    }
+  }
+]
