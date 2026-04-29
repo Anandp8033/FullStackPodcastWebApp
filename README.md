@@ -15,7 +15,11 @@ This is a podcast management and playback platform consisting of:
 FullStackPodcastWebApp/
 ├── fastapi-auth-app/          # FastAPI Backend
 │   ├── requirements.txt       # Python dependencies
-│   ├── run.py                 # Application entry point
+│   ├── run.py  
+|   ├── uploads/                    # Uploaded media storage
+    │   ├── audio/
+    │   ├── images/
+    │   └── subtitles/               # Application entry point
 │   └── app/
 │       ├── main.py            # FastAPI app configuration
 │       ├── api/               # API route handlers
@@ -56,6 +60,7 @@ FullStackPodcastWebApp/
 │
 ├── FrontEndPodCastPlayer/      # Public Podcast Player
 │   ├── podcast.html           # Player interface
+|   |── index.html
 │   ├── package.json
 │   ├── vite.config.js
 │   ├── css/
@@ -71,10 +76,6 @@ FullStackPodcastWebApp/
 │       ├── podcast.js
 │       └── podcast_1.js
 │
-├── uploads/                    # Uploaded media storage
-│   ├── audio/
-│   ├── images/
-│   └── subtitles/
 │
 └── README.md
 ```
