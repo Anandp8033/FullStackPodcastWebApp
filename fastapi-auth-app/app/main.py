@@ -14,6 +14,9 @@ Base.metadata.create_all(bind=engine)
 
 app = FastAPI()
 
+@app.get("/")
+def root():
+    return {"status": "running"}
 
 # ✅ Serve uploads folder
 app.mount(
@@ -26,7 +29,8 @@ app.mount(
 # Configure CORS to allow requests from frontend
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000", "http://localhost:3001"],
+    #allow_origins=["http://localhost:3000", "http://localhost:3001"],
+    allow_origins=["*"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
